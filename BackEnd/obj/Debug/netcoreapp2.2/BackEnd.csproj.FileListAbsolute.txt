@@ -1,0 +1,16 @@
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\bin\Debug\netcoreapp2.2\BackEnd.deps.json
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\bin\Debug\netcoreapp2.2\BackEnd.runtimeconfig.json
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\bin\Debug\netcoreapp2.2\BackEnd.runtimeconfig.dev.json
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\bin\Debug\netcoreapp2.2\BackEnd.dll
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\bin\Debug\netcoreapp2.2\BackEnd.pdb
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\obj\Debug\netcoreapp2.2\BackEnd.csprojAssemblyReference.cache
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\obj\Debug\netcoreapp2.2\BackEnd.RazorAssemblyInfo.cache
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\obj\Debug\netcoreapp2.2\BackEnd.RazorAssemblyInfo.cs
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\obj\Debug\netcoreapp2.2\BackEnd.AssemblyInfoInputs.cache
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\obj\Debug\netcoreapp2.2\BackEnd.AssemblyInfo.cs
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\obj\Debug\netcoreapp2.2\BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\obj\Debug\netcoreapp2.2\BackEnd.dll
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\obj\Debug\netcoreapp2.2\BackEnd.pdb
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\bin\Debug\netcoreapp2.2\ConferenceDTO.dll
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\bin\Debug\netcoreapp2.2\ConferenceDTO.pdb
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\BackEnd\obj\Debug\netcoreapp2.2\BackEnd.csproj.CopyComplete
