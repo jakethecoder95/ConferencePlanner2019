@@ -31,8 +31,8 @@ namespace BackEnd.Controllers
                                                    .Include(s => s.SessionSpeakers)
                                                      .ThenInclude(ss => ss.Speaker)
                                                    .Where(s =>
-                                                       s.Title.Contains(query, StringComparison.InvariantCultureIgnoreCase) ||
-                                                       s.Track.Name.Contains(query, StringComparison.InvariantCultureIgnoreCase)
+                                                       s.Title.Contains(query) ||
+                                                       s.Track.Name.Contains(query)
                                                    )
                                                    .ToListAsync();
 
@@ -40,9 +40,9 @@ namespace BackEnd.Controllers
                                                    .Include(s => s.SessionSpeakers)
                                                      .ThenInclude(ss => ss.Session)
                                                    .Where(s =>
-                                                       s.Name.Contains(query, StringComparison.InvariantCultureIgnoreCase) ||
-                                                       s.Bio.Contains(query, StringComparison.InvariantCultureIgnoreCase) ||
-                                                       s.WebSite.Contains(query, StringComparison.InvariantCultureIgnoreCase)
+                                                       s.Name.Contains(query) ||
+                                                       s.Bio.Contains(query) ||
+                                                       s.WebSite.Contains(query)
                                                    )
                                                    .ToListAsync();
 
