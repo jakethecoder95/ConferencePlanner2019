@@ -32,7 +32,6 @@ C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\Fro
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Pages\Session.g.cshtml.cs
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Pages\Speaker.g.cshtml.cs
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Pages\Search.g.cshtml.cs
-C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\FrontEnd.csproj.CoreCompileInputs.cache
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\Register.g.cshtml.cs
@@ -40,3 +39,4 @@ C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\Fro
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Pages\Admin\EditSession.g.cshtml.cs
+C:\Users\95jac\Documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\FrontEnd.csproj.CoreCompileInputs.cache

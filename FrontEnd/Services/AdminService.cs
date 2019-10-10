@@ -10,7 +10,6 @@ namespace FrontEnd.Services
     {
         private readonly Lazy<long> _creationKey = new Lazy<long>(() => BitConverter.ToInt64(Guid.NewGuid().ToByteArray(), 7));
         private readonly IServiceProvider _serviceProvider;
-        private readonly IdentityDbContext _dbContext;
         private bool _adminExists;
 
         public AdminService(IServiceProvider serviceProvider)

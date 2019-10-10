@@ -12972,11 +12972,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\95jac\\documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\FrontEnd\\FrontEnd.csproj",
+      "projectUniqueName": "C:\\Users\\95jac\\Documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\FrontEnd\\FrontEnd.csproj",
       "projectName": "FrontEnd",
-      "projectPath": "C:\\Users\\95jac\\documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\FrontEnd\\FrontEnd.csproj",
+      "projectPath": "C:\\Users\\95jac\\Documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\FrontEnd\\FrontEnd.csproj",
       "packagesPath": "C:\\Users\\95jac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\95jac\\documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\FrontEnd\\obj\\",
+      "outputPath": "C:\\Users\\95jac\\Documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\FrontEnd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12995,8 +12995,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\95jac\\documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj": {
-              "projectPath": "C:\\Users\\95jac\\documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj"
+            "C:\\Users\\95jac\\Documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj": {
+              "projectPath": "C:\\Users\\95jac\\Documents\\my-projects\\learn\\dotnet-core\\ConferencePlanner2019\\ConferenceDTO\\ConferenceDTO.csproj"
             }
           }
         }
