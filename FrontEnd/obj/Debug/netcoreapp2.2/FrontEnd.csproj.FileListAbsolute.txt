@@ -39,3 +39,4 @@ C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\Fro
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\Account\_ViewImports.g.cshtml.cs
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewImports.g.cshtml.cs
+C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\FrontEnd\obj\Debug\netcoreapp2.2\Razor\Pages\Admin\EditSession.g.cshtml.cs

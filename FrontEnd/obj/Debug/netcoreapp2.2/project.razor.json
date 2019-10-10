@@ -2981,6 +2981,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "Pages\\Admin\\EditSession.cshtml",
+      "TargetPath": "Pages\\Admin\\EditSession.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Pages\\Search.cshtml",
       "TargetPath": "Pages\\Search.cshtml",
       "FileKind": "mvc"
