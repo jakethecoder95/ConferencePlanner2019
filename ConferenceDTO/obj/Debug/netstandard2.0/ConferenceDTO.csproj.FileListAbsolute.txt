@@ -1,9 +1,9 @@
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.deps.json
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.dll
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\bin\Debug\netstandard2.0\ConferenceDTO.pdb
-C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csprojAssemblyReference.cache
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfoInputs.cache
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.AssemblyInfo.cs
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.dll
 C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.pdb
-C:\Users\95jac\documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csproj.CoreCompileInputs.cache
+C:\Users\95jac\Documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csprojAssemblyReference.cache
+C:\Users\95jac\Documents\my-projects\learn\dotnet-core\ConferencePlanner2019\ConferenceDTO\obj\Debug\netstandard2.0\ConferenceDTO.csproj.CoreCompileInputs.cache

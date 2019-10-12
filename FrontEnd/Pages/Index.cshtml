@@ -46,12 +46,9 @@
                                     <a asp-page="Speaker" asp-route-id="@speaker.ID">@speaker.Name</a>
                                 </li>
                             }
-                            @if (Model.IsAdmin)
-                            {
-                                <li>
+                                <li authz-plicy="Admin">
                                    <a asp-page="/Admin/EditSession" asp-route-id="@session.ID" class="btn btn-default btn-xs">Edit</a>
                                 </li>
-                            }
                         </ul>
                     </div>
                 </div>
